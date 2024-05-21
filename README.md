@@ -9,4 +9,8 @@ This highlights that despite technological advancements, societal tragedies like
 
 The 'Resnet18.ipynb' notebook accurately trains the ResNet-18 model for precise gesture identification.
 
-The 'Deployment.py' file includes the deployment of the ResNet-18 model and the code for successfully alerting the concerned authorities in emergency situations.
+The 'Deployment Code.py' file includes the deployment of the ResNet-18 model and the code for successfully alerting the concerned authorities in emergency situations.
+
+The 'Interface.py' file includes the interface for visualizing the location of the emergency.
+
+The 'Database_Retrieval.py' file includes the captured images of the emergency.
